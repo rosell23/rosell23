@@ -1,4 +1,4 @@
-<img src="banner.jpg" align="center"/>
+<div align="center"><img src="banner.gif" /></div>
 
 ###
 
