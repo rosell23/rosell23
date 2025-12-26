@@ -53,8 +53,6 @@
 
 ###
 
-I am a developer from 🇪🇸.    I am mostly interested in OS/kernel development, machine learning, and gamedev.
+I am a (un)professional developer and philosopher from 🇪🇸. I am mostly interested in VMs, CS, and gamedev.
 
-I also like music, languages
-
-> I am also active at SourceHut.
+I also like music and languages
