@@ -11,8 +11,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="60" alt="haskell logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="60" alt="embeddedc logo"  />
@@ -53,6 +51,6 @@
 
 ###
 
-I am a (un)professional developer and philosopher from 🇪🇸. I am mostly interested in VMs, CS, and gamedev.
+I am a (un)professional developer and philosopher from 🇪🇸. I am mostly interested in paravirtualization, kernel development, CS, and gamedev.
 
 I also like music and languages
